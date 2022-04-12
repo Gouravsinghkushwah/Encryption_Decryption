@@ -10,11 +10,11 @@ int main()
     // scanf("%s",&a);
     gets(a);
 b=strlen(a);
-printf("%d\n",b);
+//printf("%d\n",b);
 int c=b/2;
 int d=b-c;
-printf(" c = %d \n",c);
-printf(" d = %d \n",d);
+//printf(" c = %d \n",c);
+//printf(" d = %d \n",d);
 
  printf("NOTE:- Always chooce encrption first here then decraption\n");
   printf("CHOOSE 1 FOR ENCRPYION CHOOSE 2 FOR DECRYPTION = ");
