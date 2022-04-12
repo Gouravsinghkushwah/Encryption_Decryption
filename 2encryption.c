@@ -16,7 +16,7 @@ int d=b-c;
 //printf(" c = %d \n",c);
 //printf(" d = %d \n",d);
 
- printf("NOTE:- Always chooce encrption first here then decraption\n");
+ printf("NOTE:- Always choose Encryption first then Decryption\n");
   printf("CHOOSE 1 FOR ENCRPYION CHOOSE 2 FOR DECRYPTION = ");
   scanf("%d",&ch);
   switch (ch)
