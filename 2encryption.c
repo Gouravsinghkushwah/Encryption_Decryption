@@ -73,7 +73,7 @@ printf("%c",p[i]);
 }
 }
 break;
-default :  printf("something wrong !");
+default :  printf("something went wrong !");
 break;
 return 0;
 }
